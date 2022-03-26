@@ -1,0 +1,15 @@
+.notification {
+    display: flex;
+    justify-content: space-between;
+    padding: 0rem 4rem;
+    width: 100%;
+}
+.error {
+    background-color: orangered;
+}
+.success {
+    background-color: green;
+}
+.pending {
+    background-color: skyblue;
+}
